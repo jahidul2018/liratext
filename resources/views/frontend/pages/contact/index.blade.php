@@ -1,7 +1,7 @@
 @extends('frontend.layouts.app')
 <!--start section -->
 @section('title')
-<title>Contact Lira </title>    
+<title>Contact Lira textile </title>    
 @endsection
 
 @section('content')
@@ -66,7 +66,7 @@
                                                 <h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f394-p37-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
 </div>
-<form action="" method="post" class="wpcf7-form init cf7-style transparent-two-columns" novalidate="novalidate" data-status="init">
+<form action="" method="" class="wpcf7-form init cf7-style transparent-two-columns" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="394" />
 <input type="hidden" name="_wpcf7_version" value="5.3" />

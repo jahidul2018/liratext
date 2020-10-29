@@ -4,7 +4,7 @@
             <aside id="text-2" class="widget widget_text">
                 <h3 class="widget-title">Company Summary</h3>			
                 <div class="textwidget">
-                    <p>L FASHION, is an APPAREL BUYING HOUSE &amp; Manufactures specialized in providing customized service to buyers with Sourcing, Merchandising, Quality Control,Product Development and assuring Compliance Issues for products manufactured for USA and EEC market. We are experiencing tremendous growth in terms of expanding the operational capacity and building up a strong marketing network all over USA,EEC and the Far East.</p>
+                    <p>Lira text FASHION, is an APPAREL BUYING HOUSE &amp; Manufactures specialized in providing customized service to buyers with Sourcing, Merchandising, Quality Control,Product Development and assuring Compliance Issues for products manufactured for USA and EEC market. We are experiencing tremendous growth in terms of expanding the operational capacity and building up a strong marketing network all over USA,EEC and the Far East.</p>
                 </div>
             </aside>				
         </div>	
@@ -44,7 +44,7 @@
 <footer id="colophon" class="site-footer" role="contentinfo">
     <div class="site-info container">
         &copy; 
-        <a style="text-decoration: underline;" href="index.html" rel="home">L.Ltd. 2020</a>
+        <a style="text-decoration: underline;" href="index.html" rel="home">Lira text. 2020</a>
         <span class="sep"> | </span>
         All rights reserved.
     </div><!-- .site-info -->

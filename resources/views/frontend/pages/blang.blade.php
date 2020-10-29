@@ -1,4 +1,4 @@
-@extends('frontend.layouts.master')
+@extends('frontend.layouts.app')
 <!--start section -->
 @section('title')
 <title>App</title>    

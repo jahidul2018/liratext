@@ -21,6 +21,19 @@ Route::get('profile/', function () {
     return view('frontend.pages.profile.index');
 })->name('profile');
 
+Route::get('product/', function () {
+    return view('frontend.pages.product.index');
+})->name('product');
+
+//product-category-women;
+Route::get('product/product-category/woman', function () {
+    return view('frontend.pages.product.productcategory.women.index');
+})->name('product-category-women');
+
+Route::get('product/product-category/man', function () {
+    return view('frontend.pages.product.productcategory.men.index');
+})->name('product-category-man');
+
 Route::get('contacts/', function () {
     return view('frontend.pages.contact.index');
 })->name('contact');

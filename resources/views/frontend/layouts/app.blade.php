@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="xmlrpc.html">
-    <title> Lira Ltd.</title>
+    <title>Lira textile</title>
     @yield('title')
     @include('frontend.partials.style')
     @yield('style')

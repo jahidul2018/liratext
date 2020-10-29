@@ -23,7 +23,7 @@
                                     <ul id="menu-main-menu" class="menu">
                                         <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-42 current_page_item menu-item-44"><a href="{{ route('home') }}" aria-current="page">Home</a></li>
                                         <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="{{ route('profile') }}">Profile</a></li>
-                                        <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="products/index.html">Products</a></li>
+                                        <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="{{ route('product') }}">Products</a></li>
                                         <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="{{ route('contact') }}">Contacts</a></li>
                                     </ul>
                                 </div>						
